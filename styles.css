@@ -1,0 +1,63 @@
+body{
+    background-color: darkslategrey ;
+    font-family: Arial Rounded MT;
+}
+#searchForm{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 30px;
+    
+}
+.all{
+    margin-top: 12%;
+    
+}
+.submit{
+    padding-left:10px;
+    padding-right:10px
+}
+.submit input{
+    background-color: black;
+    color: darkgrey;
+    font-size: 20px;
+    font-family: Arial Rounded MT;
+    border-radius: 16px;
+    height: 40px;
+    width: 100px;
+}
+h1{
+    text-shadow: 2px 2px 10px grey;
+    text-align: center;
+    font-size: 90px;
+}
+.input{
+    padding: 10px;
+}
+.input input{
+    background-color: darkgrey;
+    border-radius: 16px;
+    border:inset;
+    box-shadow: 5px 5px 5px black;
+    font-size: 20px; 
+    display: block;
+    height: 40px;
+    width: 500px;
+}
+.GOOGLE{
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.DUCKDUCKGO{
+    font-size: 30px;
+    font-family: "DDG_ProximaNova","DDG_ProximaNova_UI_0","DDG_ProximaNova_UI_1","DDG_ProximaNova_UI_2","DDG_ProximaNova_UI_3","DDG_ProximaNova_UI_4","DDG_ProximaNova_UI_5","DDG_ProximaNova_UI_6","Proxima Nova","Helvetica Neue","Helvetica","Segoe UI","Nimbus Sans L","Liberation Sans","Open Sans",FreeSans,Arial,sans-serif;
+}.BING{
+    font-size: 30px;
+    font-family: "Segoe UI",Segoe,Tahoma,Arial,Verdana,sans-serif;
+}.ASK{
+
+    font-size: 30px;
+    font-family: "Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+
